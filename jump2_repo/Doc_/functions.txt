@@ -1,0 +1,5 @@
+﻿使用中文單字翻成英文之後的頭一個字母的組合做為寵物標籤，使其控制在26個英文字母的組合之下，而非迷失在茫茫中文單字大海之中。
+
+  Make "PET TAGS" the combination of first letters from English equivalence of each Chinese character, using Hanyu pinyin system,  so that the tags can be controlled within 26 English letters instead of getting lost in the ocean of Chinese words.
+
+
